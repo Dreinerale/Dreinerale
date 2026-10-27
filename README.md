@@ -29,7 +29,12 @@ Construyo páginas web, tiendas en línea y aplicaciones web para negocios reale
 |---|---|---|
 | **ProaPMS** *(código privado)* | Sistema de gestión hotelera (SaaS multiempresa) que usan hoteles a diario: reservas, caja y pagos en línea (facturación electrónica en desarrollo) | JavaScript, Node.js, Supabase, PostgreSQL, Vercel |
 | [**Termales El Ocho**](https://termaleselocho.com) | Sitio web con reservas en línea conectadas a ProaPMS | HTML, CSS, JavaScript |
-| [**Hotel Chibchacum (app)**](https://app.hotelchibchacum.co/) | Aplicación de gestión hotelera | React, TypeScript, Supabase |
+| [**Termales Arco Iris**](https://termalesarcoiris.com) | Sitio web con reservas y pago en línea integrados al sistema del hotel | HTML, CSS, JavaScript |
+| [**Hotel Chibchacum (app)**](https://github.com/Dreinerale/HotelChibchacum) | Sistema de gestión hotelera en producción ([app.hotelchibchacum.co](https://app.hotelchibchacum.co)) | React, TypeScript, Supabase |
 | [**Hotel Chibchacum (sitio)**](https://github.com/Dreinerale/hotel-chibchacum) | Sitio web responsive con SEO técnico | HTML, CSS, JavaScript |
 | [**Hotel Dubai**](https://dreinerale.github.io/hotel-dubai/) | Landing page con dos propuestas de marca | HTML, CSS |
 | [**Grupo Baby Store**](https://grupobabystore.com.ar) | Tienda en línea: catálogo, productos e inventario | WordPress, WooCommerce, PHP |
+
+### 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dreiner_Rodríguez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dreiner-alexander-rodriguez-ramirez-1bbba6170)
